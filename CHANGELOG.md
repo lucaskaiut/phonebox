@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+**Widgets**
+- Spotify queue: a track tapped in the widget plays inside the playlist or album that is playing, so the rest of it
+  follows as in the Spotify app. A track you queued by hand still plays on its own (#441,
+  [HugoDeLannoy5311](https://github.com/HugoDeLannoy5311)).
+
 ## 0.9.28 — 2026-11-23
 
 Faster page switching (tap or slide along the page dots, a page bar with names, a Page buttons widget), Discord
